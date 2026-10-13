@@ -1,7 +1,7 @@
 # Gallocanta_rewetting
 Rewetting experiment on long-term exposed sediments of Lake Gallocanta (Spain) to assess changes in microbial community composition.
 
-# Code for CO2 INFLUX AND EFFLUX CIRCADIAN CYCLES IN BARE DRY LAKE SEDIMENTS
+# Code for CO2 influx and efflux circadian cycles in bare dry lake sediments
 
 This repository contains the Jupyter Notebook and R scripts used for the data analysis and figure generation associated with the following manuscript:
 
